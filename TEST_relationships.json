@@ -1,0 +1,249 @@
+{
+  "overlaps": [
+    {
+      "doc1": "01_2011.m12",
+      "req1": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "doc2": "1_2019.m2",
+      "req2": "FIN-FSA regulations are legally binding and must be complied with.",
+      "similarity": 0.9347240924835205,
+      "cross_lingual": false,
+      "languages": "finnish-finnish"
+    },
+    {
+      "doc1": "01_2011.m12",
+      "req1": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "doc2": "01_2014.m9_en",
+      "req2": "FIN-FSA regulations are binding legal requirements.",
+      "similarity": 0.9233065843582153,
+      "cross_lingual": true,
+      "languages": "finnish-english"
+    },
+    {
+      "doc1": "01_2011.m12",
+      "req1": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "doc2": "01_2012.m5_en",
+      "req2": "Entities must comply with FIN-FSA binding legal requirements.",
+      "similarity": 0.9164080619812012,
+      "cross_lingual": true,
+      "languages": "finnish-english"
+    },
+    {
+      "doc1": "01_2011.m12",
+      "req1": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "doc2": "01_2014.m9_en",
+      "req2": "Compliance with FIN-FSA regulations is mandatory.",
+      "similarity": 0.9030135273933411,
+      "cross_lingual": true,
+      "languages": "finnish-english"
+    },
+    {
+      "doc1": "01_2012.m5_en",
+      "req1": "Entities must comply with FIN-FSA binding legal requirements.",
+      "doc2": "1_2019.m2",
+      "req2": "FIN-FSA regulations are legally binding and must be complied with.",
+      "similarity": 0.9444015026092529,
+      "cross_lingual": true,
+      "languages": "english-finnish"
+    },
+    {
+      "doc1": "01_2012.m5_en",
+      "req1": "Entities must comply with FIN-FSA binding legal requirements.",
+      "doc2": "01_2014.m9_en",
+      "req2": "FIN-FSA regulations are binding legal requirements.",
+      "similarity": 0.937340497970581,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "01_2012.m5_en",
+      "req1": "Entities must comply with FIN-FSA binding legal requirements.",
+      "doc2": "01_2014.m9_en",
+      "req2": "Compliance with FIN-FSA regulations is mandatory.",
+      "similarity": 0.9348183274269104,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "01_2012.m5_en",
+      "req1": "Entities must comply with FIN-FSA binding legal requirements.",
+      "doc2": "01_2011.m12",
+      "req2": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "similarity": 0.9164080619812012,
+      "cross_lingual": true,
+      "languages": "english-finnish"
+    },
+    {
+      "doc1": "01_2012.m5_en",
+      "req1": "Entities must comply with FIN-FSA binding legal requirements.",
+      "doc2": "610_2014_amendments_up_to_395_2019",
+      "req2": "Credit institutions must meet specific financial position requirements.",
+      "similarity": 0.8567747473716736,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "01_2014.m9_en",
+      "req1": "FIN-FSA regulations are binding legal requirements.",
+      "doc2": "1_2019.m2",
+      "req2": "FIN-FSA regulations are legally binding and must be complied with.",
+      "similarity": 0.9800946712493896,
+      "cross_lingual": true,
+      "languages": "english-finnish"
+    },
+    {
+      "doc1": "01_2014.m9_en",
+      "req1": "FIN-FSA regulations are binding legal requirements.",
+      "doc2": "01_2012.m5_en",
+      "req2": "Entities must comply with FIN-FSA binding legal requirements.",
+      "similarity": 0.937340497970581,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "01_2014.m9_en",
+      "req1": "FIN-FSA regulations are binding legal requirements.",
+      "doc2": "01_2011.m12",
+      "req2": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "similarity": 0.9233065843582153,
+      "cross_lingual": true,
+      "languages": "english-finnish"
+    },
+    {
+      "doc1": "01_2014.m9_en",
+      "req1": "Compliance with FIN-FSA regulations is mandatory.",
+      "doc2": "01_2012.m5_en",
+      "req2": "Entities must comply with FIN-FSA binding legal requirements.",
+      "similarity": 0.9348183274269104,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "01_2014.m9_en",
+      "req1": "Compliance with FIN-FSA regulations is mandatory.",
+      "doc2": "1_2019.m2",
+      "req2": "FIN-FSA regulations are legally binding and must be complied with.",
+      "similarity": 0.9224861860275269,
+      "cross_lingual": true,
+      "languages": "english-finnish"
+    },
+    {
+      "doc1": "01_2014.m9_en",
+      "req1": "Compliance with FIN-FSA regulations is mandatory.",
+      "doc2": "01_2011.m12",
+      "req2": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "similarity": 0.9030135273933411,
+      "cross_lingual": true,
+      "languages": "english-finnish"
+    },
+    {
+      "doc1": "1_2019.m2",
+      "req1": "FIN-FSA regulations are legally binding and must be complied with.",
+      "doc2": "01_2014.m9_en",
+      "req2": "FIN-FSA regulations are binding legal requirements.",
+      "similarity": 0.9800946712493896,
+      "cross_lingual": true,
+      "languages": "finnish-english"
+    },
+    {
+      "doc1": "1_2019.m2",
+      "req1": "FIN-FSA regulations are legally binding and must be complied with.",
+      "doc2": "01_2012.m5_en",
+      "req2": "Entities must comply with FIN-FSA binding legal requirements.",
+      "similarity": 0.9444015026092529,
+      "cross_lingual": true,
+      "languages": "finnish-english"
+    },
+    {
+      "doc1": "1_2019.m2",
+      "req1": "FIN-FSA regulations are legally binding and must be complied with.",
+      "doc2": "01_2011.m12",
+      "req2": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "similarity": 0.9347240924835205,
+      "cross_lingual": false,
+      "languages": "finnish-finnish"
+    },
+    {
+      "doc1": "1_2019.m2",
+      "req1": "FIN-FSA regulations are legally binding and must be complied with.",
+      "doc2": "01_2014.m9_en",
+      "req2": "Compliance with FIN-FSA regulations is mandatory.",
+      "similarity": 0.9224861860275269,
+      "cross_lingual": true,
+      "languages": "finnish-english"
+    },
+    {
+      "doc1": "610_2014_amendments_up_to_395_2019",
+      "req1": "Credit institutions must meet specific financial position requirements.",
+      "doc2": "01_2012.m5_en",
+      "req2": "Entities must comply with FIN-FSA binding legal requirements.",
+      "similarity": 0.8567747473716736,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "699_2004",
+      "req1": "Ensure undisturbed operations of financial and insurance markets.",
+      "doc2": "EBA-GL-2014-06 Guidelines on Recovery Plan Scenarios",
+      "req2": "Establish a framework for recovery and resolution of financial institutions.",
+      "similarity": 0.8544179797172546,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "699_2004",
+      "req1": "Safeguard the financial position of depositors and investors.",
+      "doc2": "EBA-GL-2014-06 Guidelines on Recovery Plan Scenarios",
+      "req2": "Establish a framework for recovery and resolution of financial institutions.",
+      "similarity": 0.8905870914459229,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "EBA-GL-2014-06 Guidelines on Recovery Plan Scenarios",
+      "req1": "Establish a framework for recovery and resolution of financial institutions.",
+      "doc2": "699_2004",
+      "req2": "Safeguard the financial position of depositors and investors.",
+      "similarity": 0.8905870914459229,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "EBA-GL-2014-06 Guidelines on Recovery Plan Scenarios",
+      "req1": "Establish a framework for recovery and resolution of financial institutions.",
+      "doc2": "699_2004",
+      "req2": "Ensure undisturbed operations of financial and insurance markets.",
+      "similarity": 0.8544179797172546,
+      "cross_lingual": false,
+      "languages": "english-english"
+    }
+  ],
+  "contradictions": [
+    {
+      "doc1": "01_2012.m5_en",
+      "req1": "Entities must comply with FIN-FSA binding legal requirements.",
+      "doc2": "01_2014.m9_en",
+      "req2": "FIN-FSA regulations are binding legal requirements.",
+      "similarity": 0.937340497970581,
+      "cross_lingual": false,
+      "languages": "english-english"
+    },
+    {
+      "doc1": "01_2012.m5_en",
+      "req1": "Entities must comply with FIN-FSA binding legal requirements.",
+      "doc2": "01_2011.m12",
+      "req2": "Regulations issued by the Financial Supervisory Authority are binding and must be followed.",
+      "similarity": 0.9164080619812012,
+      "cross_lingual": true,
+      "languages": "english-finnish"
+    },
+    {
+      "doc1": "01_2012.m5_en",
+      "req1": "Entities must comply with FIN-FSA binding legal requirements.",
+      "doc2": "610_2014_amendments_up_to_395_2019",
+      "req2": "Credit institutions must meet specific financial position requirements.",
+      "similarity": 0.8567747473716736,
+      "cross_lingual": false,
+      "languages": "english-english"
+    }
+  ]
+}
