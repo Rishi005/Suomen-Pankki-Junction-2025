@@ -2,6 +2,8 @@
 In order to see the visualisations and interact with the different nodes, run visualisations.py and then view_visualisations.py
 
 
+# General info about the project
+
 The program identifies and categorises the key risks (e.g. operational risk, credit risk, liquidity risk) addressed by legislation involving financial corporations granting credit. It compares input legislation strings to identify conflicting specifications in legislation addressing these risks and returns overlapping or contradicting legislation.
 The implementation allows comparison of legislation in different languages by transforming all of the requirements from the cleaned JSONs into embeddings using Gemini's text-embedding-004, which can capture semantic meaning in multiple languages. This was needed as input legislation compared Finnish and English legislative documents. Agglomerative Clustering was then used to cluster these embeddings with cosine similarity to capture the natural groupings of both Finnish and English requirements together​.
 
