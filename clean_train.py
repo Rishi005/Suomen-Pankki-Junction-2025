@@ -481,7 +481,7 @@ if __name__ == "__main__":
         data_dir="/home/rishika/Suomen-Pankki-Junction-2025/FINANCIAL_REGULATION",
         persist_dir="/home/rishika/Suomen-Pankki-Junction-2025/persist_dir",
         cleaned_out="/home/rishika/Suomen-Pankki-Junction-2025/CLEAN2_FINANCIAL_REGULATION",
-        api_key="AIzaSyDIMsvbbdFrFodZZsyLalRimfJDPEvboaU",
+        api_key="API_KEY",
         batch_size=2,  # Even smaller batches
         force_rebuild=True,
     )
