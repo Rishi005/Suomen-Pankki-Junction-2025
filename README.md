@@ -1,5 +1,5 @@
 # Running the visualisations
-In order to see the visualisations and interact with the different nodes, run visualisations.py and then view_visualisations.py
+In order to see the visualisations and interact with the different nodes, run visualisations.py and then view_visualisations.py.
 Please make sure that you install the required dependencies from the file 'requirements.txt' before running any of our code. 
 
 
